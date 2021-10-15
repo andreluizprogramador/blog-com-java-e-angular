@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "nome": "Alexandra",
+      "mensagem": "Esta postagem foi atualizada!",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nome": "Lucas",
+      "mensagem": "Esta é minha primeira postagem!"
+    },
+    {
+      "id": 4,
+      "nome": "Pedro",
+      "mensagem": "Esta é uma nova postagem!"
+    },
+    {
+      "id": 5,
+      "nome": "Manuela",
+      "mensagem": "Texto novo!"
+    },
+    {
+      "nome": "Alexandra Vanessa Barbosa Sivério",
+      "mensagem": "Este é um teste do POST",
+      "id": 6
+    },
+    {
+      "nome": "Teste 2",
+      "mensagem": "Teste Teste Teste",
+      "id": 7
+    },
+    {
+      "nome": "Nova Mensagem",
+      "mensagem": "Teste Novamente",
+      "id": 8
+    },
+    {
+      "nome": "Adriana Aparecida Bellato",
+      "mensagem": "Estarei.",
+      "id": 9
+    }
+  ]
+}
